@@ -1,0 +1,14 @@
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+   clrscr();
+   printf("_\t_\t_\t_\t_\n");
+   printf("|\t\t\t\t|\n");
+   printf("|\t\t\t\t|\n");
+   printf("|\t\tshruti\t\t|\n");
+   printf("|\t\t\t\t|\n");
+   printf("|\t\t\t\t|\n");
+   printf("_\t_\t_\t_\t_\n");
+   getch();
+}
